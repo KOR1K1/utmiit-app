@@ -1,4 +1,7 @@
 {
+  "AppVersion": 3,
+  "ApkLink": "https://expo.dev/artifacts/eas/faSXxDPxGXRr1MccQahEX7.apk",
+  "Changelog": "Added update system",
   "version": "1",
-  "link": "https://expo.dev/artifacts/eas/tjMGZLEtAmaD5yoaxAqk7m.apk"
+  "link": "https://expo.dev/artifacts/eas/faSXxDPxGXRr1MccQahEX7.apk"
 }
