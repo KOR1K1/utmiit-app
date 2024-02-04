@@ -1,6 +1,6 @@
 {
-  "AppVersion": 4,
-  "ApkLink": "https://expo.dev/artifacts/eas/g5bvapnzQXNEJnaNGdgevc.apk",
-  "Changelog": "V4 Added loading after button click\n\nV3 Fixed Sunday bug\nAdded responsiveless",
+  "AppVersion": 5,
+  "ApkLink": "https://expo.dev/artifacts/eas/q1knPjmJxqwar7NussU4Hw.apk",
+  "Changelog": "V5 Fixed update bug\n\nV4 Added loading after button click\n\nV3 Fixed Sunday bug\nAdded responsiveless",
   "version": "1"
 }
