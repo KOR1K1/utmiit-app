@@ -2,5 +2,5 @@
   "AppVersion": 8,
   "ApkLink": "https://expo.dev/artifacts/eas/eQ2Gsz7TERWuQhYPJqDtLz.apk",
   "Changelog": "V8 кое-что \n\nV7 fixed design\n\nV6 design updated, fixed update schedule",
-  "Holiday": true 
+  "Holiday": "true"
 }
